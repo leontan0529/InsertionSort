@@ -1,5 +1,5 @@
 # InsertionSort
-National University of Singapore AY2023/24
+National University of Singapore AY2023/24S1
 EE2028 Microcontroller Programming and Interfacing Assignment 1
 
 Task:
